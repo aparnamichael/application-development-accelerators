@@ -1,3 +1,8 @@
+# License
+- The license for IBM Application Modernization Accelerator Developer Tools can be found in the [product-licenses](./product-licenses/) folder in this repository.
+
+- You can use this repository to add issues for Application Modernization Accelerator Developer Tools. The license for issues, discussion, and any files or samples shared in issues can be found in the [LICENSE](./LICENSE) file.
+
 # IBM® Application Modernization Accelerator Developer Tools
 
 ## Overview
