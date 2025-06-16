@@ -1,8 +1,3 @@
-# License
-- The license for IBM Application Modernization Accelerator Developer Tools can be found in the [product-licenses](./product-licenses/) folder in this repository.
-
-- You can use this repository to add issues for Application Modernization Accelerator Developer Tools. The license for issues, discussion, and any files or samples shared in issues can be found in the [LICENSE](../LICENSE) file.
-
 # IBM® Application Modernization Accelerator Developer Tools
 
 ## Overview
@@ -11,7 +6,7 @@ Easily and quickly modernize your enterprise Java applications using IBM Applica
 
 ## License
 
-By downloading this extension, you agree to the terms of [IBM Application Modernization Accelerator Developer Tools](https://www.ibm.com/terms/?id=L-PMKJ-4ADC94).
+By downloading the IBM Application Modernization Accelerator Developer Tools extension or plugin onto your IDE, you agree to the terms of [IBM Application Modernization Accelerator Developer Tools](https://www.ibm.com/terms/?id=L-PMKJ-4ADC94).
 
 ## Features
 
@@ -26,7 +21,7 @@ Identify changes required to upgrade Java code and automatically update the rele
 
 ## Quick start
 
-- Install IBM Application Modernization Accelerator Developer Tools
+- Install IBM Application Modernization Accelerator Developer Tools from your IDE marketplace
 - Select the application project for modernization
 - Select and access available features from context menu
 
@@ -38,7 +33,7 @@ The requirements to use IBM Application Modernization Accelerator Developer Tool
 
 | Item  | Details                                          |
 | ----- | ------------------------------------------------ |
-| Java  | Java SE 11 with a Java SDK 11 or a later version |
+| Java  | Java SE 11 with Java SDK 11 or a later version   |
 | Maven | Use Maven to build your application              |
 
 For more information, see [documentation](https://www.ibm.com/docs/ama-dev-tools) for IBM Application Modernization Accelerator Developer Tools.
