@@ -33,7 +33,7 @@ The requirements to use IBM Application Modernization Accelerator Developer Tool
 
 | Item  | Details                                          |
 | ----- | ------------------------------------------------ |
-| Java  | Java SE 11 with Java SDK 11 or a later version   |
+| Java  | Java SE 8 with Java SDK 8 or a later version   |
 | Maven | Use Maven to build your application              |
 
 For more information, see [documentation](https://www.ibm.com/docs/ama-dev-tools) for IBM Application Modernization Accelerator Developer Tools.
