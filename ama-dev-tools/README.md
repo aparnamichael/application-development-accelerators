@@ -40,4 +40,4 @@ For more information, see [documentation](https://www.ibm.com/docs/ama-dev-tools
 
 ## Support
 
-If you want to report a problem or are looking for support options, see this [documentation](https://www.ibm.com/docs/ama-dev-tools?topic=help-support) for IBM Application Modernization Accelerator Developer Tools.
+If you want to report a problem or are looking for support options, see this [documentation](https://www.ibm.com/docs/SSCVT9B/amadt-help-support.html) for IBM Application Modernization Accelerator Developer Tools.
