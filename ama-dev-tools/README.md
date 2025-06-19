@@ -37,3 +37,7 @@ The requirements to use IBM Application Modernization Accelerator Developer Tool
 | Maven | Use Maven to build your application              |
 
 For more information, see [documentation](https://www.ibm.com/docs/ama-dev-tools) for IBM Application Modernization Accelerator Developer Tools.
+
+## Support
+
+If you want to report a problem or are looking for support options, see this [documentation](https://www.ibm.com/docs/ama-dev-tools?topic=help-support) for IBM Application Modernization Accelerator Developer Tools.
