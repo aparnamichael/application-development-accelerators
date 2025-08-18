@@ -1,0 +1,176 @@
+NOTICES AND INFORMATION
+
+ IBM Enterprise Application Service for Java Tools 0.0.1 
+
+The IBM license agreement and any applicable information on the web
+download page for IBM products refers Licensee to this file for details
+concerning notices applicable to code included in the products listed
+above ("the Program").
+
+Notwithstanding the terms and conditions of any other agreement Licensee
+may have with IBM or any of its related or affiliated entities
+(collectively "IBM"), the third party code identified below is subject
+to the terms and conditions of the IBM license agreement for the Program
+and not the license terms that may be contained in the notices below.
+The notices are provided for informational purposes.
+
+Please note: This Notices file may identify information that is not used
+by, or that was not shipped with, the Program as Licensee installed it.
+
+IMPORTANT: IBM does not represent or warrant that the information in this
+NOTICES file is accurate. Third party websites are independent of IBM and
+IBM does not represent or warrant that the information on any third party
+website referenced in this NOTICES file is accurate. IBM disclaims any
+and all liability for errors and omissions or for any damages accruing
+from the use of this NOTICES file or its contents, including without
+limitation URLs or references to any third party websites.
+
+TABLE OF CONTENTS
+
+THIS IBM NOTICES FILE CONSISTS OF THE FOLLOWING SECTIONS:
+
+BSD 2 Clause license (BSD-2-CLAUSE)
+ISC License (ISC)
+MIT license (MIT)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BSD 2 Clause license
+
+The Program includes some or all of the following that IBM obtained
+under the BSD 2 Clause license:
+
+dotenv-16.6.1.tgz (Copyright 2015 Scott Motte)
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice,
+this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer in the
+documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+END OF BSD 2 Clause license NOTICES AND INFORMATION
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ISC License
+
+The Program includes some or all of the following that IBM obtained
+under the ISC License:
+
+inherits-2.0.4.tgz (Copyright Isaac Z. Schlueter and Contributors)
+minimatch-3.1.2.tgz (Copyright Isaac Z. Schlueter and Contributors)
+semver-7.7.2.tgz (Copyright Isaac Z. Schlueter and Contributors) (Copyright Isaac Z. Schlueter and Contributors)
+
+
+ISC License
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND ISC DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+
+END OF ISC License NOTICES AND INFORMATION
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MIT license
+
+The Program includes some or all of the following that IBM obtained
+under the MIT license:
+
+async-3.2.6.tgz (Copyright 2010-2018 Caolan McMahon)
+balanced-match-1.0.2.tgz (Copyright 2013 Julian Gruber <julian@juliangruber.com>)
+brace-expansion-1.1.12.tgz (Copyright 2013 Julian Gruber <julian@juliangruber.com>)
+color-3.2.1.tgz (Copyright 2012 Heather Arthur)
+color-convert-1.9.3.tgz (Copyright 2011-2016 Heather Arthur <fayearthur@gmail.com>) (Copyright 2011-2016 Heather Arthur and Josh Junon)
+color-name-1.1.3.tgz (Copyright 2015 Dmitry Ivanov)
+color-name-1.1.4.tgz (Copyright 2015 Dmitry Ivanov)
+color-string-1.9.1.tgz (Copyright 2011 Heather Arthur <fayearthur@gmail.com>)
+colors-1.6.0.tgz (Copyright DABH (https://github.com/DABH)) (Copyright Marak Squires) (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
+colorspace-1.1.4.tgz (Copyright 2015 Arnout Kazemier, Martijn Swaagman, the Contributors)
+concat-map-0.0.1.tgz (Copyright James Halliday)
+diagnostics-2.0.3.tgz (Copyright 2015 Arnout Kazemier, Martijn Swaagman, the Contributors)
+enabled-2.0.0.tgz (Copyright 2015 Arnout Kazemier, Martijn Swaagman, the Contributors)
+fecha-4.2.3.tgz (Copyright 1971-2030 td>) (Copyright 2014 rd,) (Copyright 2015 Taylor Hakes) (parse('November 4, 2005', 'longDate'); // new Date(2005, 10, 4))
+file-stream-rotator-0.6.1.tgz (Copyright 2022 Roger Castells)
+fn.name-1.1.0.tgz (Copyright 2015 Arnout Kazemier, Martijn Swaagman, the Contributors)
+is-arrayish-0.3.2.tgz (Copyright 2015 JD Ballard)
+is-stream-2.0.1.tgz (Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com))
+kuler-2.0.0.tgz (Copyright 2014 Arnout Kazemier)
+l10n-0.0.18.tgz(Copyright Not Found)
+logform-2.7.0.tgz (Copyright 2017 Charlie Robbins & the Contributors)
+moment-2.30.1.tgz (Copyright JS Foundation and other contributors)
+ms-2.1.3.tgz (Copyright 2020 Vercel, Inc)
+object-hash-3.0.0.tgz (Copyright 2014 object-hash contributors)
+one-time-1.0.0.tgz (Copyright 2015 Unshift.io, Arnout Kazemier,  the Contributors)
+prettier-3.6.2.tgz (Copyright 2009-2015 Kevin Decker) (Copyright 2010-2025 Google LLC. https://angular.dev/licensePermission is hereby granted) (Copyright 2011-2015 by Vitaly PuzrinPermission is hereby granted) (Copyright 2012 EditorConfig TeamPermission is hereby granted, free of charge, to any person obtaining a copy) (Copyright 2012-2014 Raynos.Permission is hereby granted) (Copyright 2012-2014 by Woong Jun and Tim Oxley.This package is a javascript porting of) (Copyright 2012-2014 by various contributors) (Copyright 2012-2017 by Ingvar StepanyanPermission is hereby granted) (Copyright 2012-2018 Aseem Kishore) (Copyright 2012-2022 by various contributors) (Copyright 2013 Andrey Sitnik "andrey@sitnik.ru" (mailto:andrey@sitnik.ru)) (Copyright 2013 Andrey Sitnik "andrey@sitnik.ru" (mailto:andrey@sitnik.ru)Permission is hereby granted, free of charge, to any person obtaining a copy of) (Copyright 2013 Dominic TarrPermission is hereby granted, free of charge,) (Copyright 2013 James HallidayPermission is hereby granted, free of charge, to any person obtaining a copy of) (Copyright 2013 Kael Zhang "i@kael.me" (mailto:i@kael.me), contributors) (Copyright 2013 LiucwPermission is hereby granted, free of charge, to any person obtaining a copy of) (Copyright 2013 Mikola LysenkoPermission is hereby granted, free of charge, to any person obtaining a copy) (Copyright 2014 Alex Bell) (Copyright 2014 Jon Schlinkert.Permission is hereby granted, free of charge, to any person obtaining a copy) (Copyright 2014 Sebastian McKenzie and other contributorsPermission is hereby granted, free of charge, to any person obtaining) (Copyright 2014 Stefan ThomasPermission is hereby granted, free of charge, to any person obtaining) (Copyright 2014 Yehuda Katz and contributorsPermission is hereby granted, free of charge, to any person obtaining a copy of) (Copyright 2014-2016 Jon Schlinkert.Permission is hereby granted) (Copyright 2014-2016 Jon SchlinkertPermission is hereby granted) (Copyright 2014-2017 Jon Schlinkert.Permission is hereby granted) (Copyright 2014-2018 Simon LydellPermission is hereby granted) (Copyright 2014-2020 TeambitionPermission is hereby granted) (Copyright 2015 Jon Schlinkert.Permission is hereby granted, free of charge, to any person obtaining a copy) (Copyright 2015 Tilde, Inc.Permission is hereby granted, free of charge, to any person obtaining a copy of) (Copyright 2015 Titus Wormer "mailto:tituswormer@gmail.com" (mailto:tituswormer@gmail.com)Permission is hereby granted, free of charge, to any person obtaining) (Copyright 2015 Titus Wormer "tituswormer@gmail.com" (mailto:tituswormer@gmail.com)Permission is hereby granted, free of charge, to any person obtaining) (Copyright 2015 Titus Wormer "tituswormer@gmail.com" (mailto:tituswormer@gmail.com)Permission is hereby granted, free of charge, to any person obtaining a copy) (Copyright 2015-2019 Elan ShankerPermission to use) (Copyright 2015-2020 Matteo Collina) (Copyright 2015-2024 Matteo CollinaPermission is hereby granted) (Copyright 2016 Denys Kniazevych "webschik@gmail.com" (mailto:webschik@gmail.com)) (Copyright 2016 Joshua HolbrookPermission is hereby granted, free of charge, to any person obtaining a copy) (Copyright 2016 Mark WubbenPermission to use, copy, modify, and/or distribute this software for any purpose) (Copyright 2016 Pat Sissons "patricksissons@gmail.com" (mailto:patricksissons@gmail.com)) (Copyright 2016 Thomas Watson SteenPermission is hereby granted, free of charge, to any person obtaining a copy) (Copyright 2016 Titus Wormer "tituswormer@gmail.com" (mailto:tituswormer@gmail.com)Permission is hereby granted, free of charge, to any person obtaining) (Copyright 2016 Titus Wormer "tituswormer@gmail.com" (mailto:tituswormer@gmail.com)Permission is hereby granted, free of charge, to any person obtaining a copy) (Copyright 2017 Andrew Powell "andrew@shellscape.org" (mailto:andrew@shellscape.org)Permission is hereby granted, free of charge, to any person obtaining a copy) (Copyright 2017 Andrey Sitnik "andrey@sitnik.ru" (mailto:andrey@sitnik.ru)Permission is hereby granted, free of charge, to any person obtaining a copy of) (Copyright 2017 Evgeny Poberezkin) (Copyright 2017 Jon Schlinkert.Permission is hereby granted, free of charge, to any person obtaining a copy) (Copyright 2017 Titus Wormer "tituswormer@gmail.com" (mailto:tituswormer@gmail.com)Permission is hereby granted, free of charge, to any person obtaining) (Copyright 2017 is hereby granted, free of charge, to any person obtaining a copy) (Copyright 2017-2021 Luke Childs) (Copyright 2018 Eemeli Aro "eemeli@gmail.com" (mailto:eemeli@gmail.com)Permission to use, copy, modify, and/or distribute this software for any purpose) (Copyright 2018-2020 Andrea Giammarchi) (Copyright 2019 Fabio SpampinatoPermission is hereby granted, free of charge, to any person obtaining a) (Copyright 2019 Sindre Sorhus "sindresorhus@gmail.com" (mailto:sindresorhus@gmail.com) (https://sindresorhus.com), Paul Miller (https://paulmillr.com)Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documen) (Copyright 2019 and later, KFlash and others.Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.THE SOFTWARE) (Copyright 2019 typescript-eslint and other contributorsPermission is hereby granted, free of charge, to any person obtaining a copy) (Copyright 2020 Fabio SpampinatoPermission is hereby granted, free of charge, to any person obtaining a) (Copyright 2020 Titus Wormer "tituswormer@gmail.com" (mailto:tituswormer@gmail.com)Permission is hereby granted, free of charge, to any person obtaining) (Copyright 2021 Fabio SpampinatoPermission is hereby granted, free of charge, to any person obtaining a) (Copyright 2021 Titus Wormer "mailto:tituswormer@gmail.com" (mailto:tituswormer@gmail.com)Permission is hereby granted, free of charge, to any person obtaining) (Copyright 2021-2022 Jared WrayPermission is hereby granted) (Copyright 2021-2024 Oleksii Raspopov) (Copyright 2022 Fabio SpampinatoPermission is hereby granted, free of charge, to any person obtaining a) (Copyright 2023 Fabio SpampinatoPermission is hereby granted, free of charge, to any person obtaining a) (Copyright 2024 Fabio SpampinatoPermission is hereby granted, free of charge, to any person obtaining a) (Copyright 2025 Fabio SpampinatoPermission is hereby granted, free of charge, to any person obtaining a) (Copyright James Long and contributors)
+process-0.11.10.tgz (Copyright 2013 Roman Shtylman <shtylman@gmail.com>)
+readable-stream-3.6.2.tgz (Copyright Node.js contributors)
+safe-buffer-5.2.1.tgz (Copyright Feross Aboukhadijeh)
+safe-stable-stringify-2.5.0.tgz (Copyright Ruben Bridgewater)
+simple-swizzle-0.2.2.tgz (Copyright 2015 Josh Junon)
+stack-trace-0.0.10.tgz (Copyright 2011 Felix Geisendörfer (felix@debuggable.com))
+string_decoder-1.3.0.tgz (Copyright Node.js contributors)
+text-hex-1.0.0.tgz (Copyright 2014-2015 Arnout Kazemier <opensource@3rd) (Copyright 2014-2015 Arnout Kazemier <opensource@3rd-Eden.com>)
+triple-beam-1.3.5.tgz (Copyright Microsoft Corporation)
+triple-beam-1.4.1.tgz (Copyright 2017 winstonjs)
+util-deprecate-1.0.2.tgz (Copyright 2014 Nathan Rajlich "nathan@tootallnate.net" (mailto:nathan@tootallnate.net)) (Copyright 2014 Nathan Rajlich <nathan@tootallnate.net>)
+vscode-jsonrpc-6.0.0.tgz (Copyright Microsoft Corporation)
+vscode-languageclient-7.0.0.tgz (Copyright Microsoft Corporation)
+vscode-languageserver-protocol-3.16.0.tgz (Copyright Microsoft Corporation)
+vscode-languageserver-types-3.16.0.tgz (Copyright Microsoft Corporation)
+winston-3.17.0.tgz (Copyright 2010 Charlie Robbins)
+winston-daily-rotate-file-5.0.0.tgz (Copyright 2015-2024 winstonjs)
+winston-transport-4.9.0.tgz (Copyright 2015 Charlie Robbins & the contributors)
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the "Software"),
+to deal in the Software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:  The
+above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED
+"AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+END OF MIT license NOTICES AND INFORMATION
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+END OF IBM ENTERPRISE APPLICATION SERVICE FOR JAVA TOOLS NOTICES AND INFORMATION
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+END OF NOTICES AND INFORMATION FILE
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+L/N: L-HZVV-S9VPRN
+D/N: L-HZVV-S9VPRN
+P/N: L-HZVV-S9VPRN
+ 
