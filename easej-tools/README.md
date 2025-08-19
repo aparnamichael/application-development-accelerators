@@ -9,7 +9,7 @@ EASeJ Tools simplifies the management of EASeJ applications directly within VS C
 - View EASeJ repositories: View all repositories that you have access to directly from VS Code. Get the right repository with minimal effort.
 - Create missing EASeJ YAML files: Automatically detect missing EASeJ-specific YAML files in your environment and create them with ease, saving you valuable time.
 - Inline syntax and schema assistance: Enjoy real-time inline help with EASeJ YAML syntax, version IDs, and other platform-specific schema elements. Get accurate suggestions while you edit.
-- Instance-specific validations: When logged in, EASeJ Tool provides validation tailored to your EASeJ instance, ensuring correct version IDs, artifact IDs, and other instance-specific data. This reduces misconfigurations and improves accuracy.
+- Instance-specific validations: When logged in, EASeJ Tools provides validation tailored to your EASeJ instance, ensuring correct version IDs, artifact IDs, and other instance-specific data. This reduces misconfigurations and improves accuracy.
 
 # Why choose EASeJ Tools?
 
