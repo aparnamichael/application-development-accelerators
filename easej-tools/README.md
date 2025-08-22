@@ -2,7 +2,7 @@
 
 [IBM Enterprise Application Service for Java](https://www.ibm.com/products/enterprise-application-service-for-java) (EASeJ) is a fully managed service that helps you build, deploy and run enterprise Java applications in the cloud with ease.
 
-EASeJ Tools simplifies the management of EASeJ applications directly within VS Code. EASeJ Tools provides integrated and tailored help for configuring EASeJ environment YAMLs and repositories through inline assistance, validation, and more to minimize context switching, and streamline and accelerate application development and deployment.
+EASeJ Tools simplifies the management of EASeJ applications directly within Visual Studio Code (VS Code). EASeJ Tools provides integrated and tailored help for configuring EASeJ environment YAMLs and repositories through inline assistance, validation, and more to minimize context switching, and streamline and accelerate application development and deployment.
 
 # Key features
 
