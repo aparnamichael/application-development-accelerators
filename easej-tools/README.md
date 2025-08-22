@@ -2,9 +2,9 @@
 
 [IBM Enterprise Application Service for Java](https://www.ibm.com/products/enterprise-application-service-for-java) (EASeJ) is a fully managed service that helps you build, deploy and run enterprise Java applications in the cloud with ease.
 
-EASeJ Tools simplifies the management of EASeJ applications directly within Visual Studio Code (VS Code). EASeJ Tools provides integrated and tailored help for configuring EASeJ environment YAMLs and repositories through inline assistance, validation, and more to minimize context switching, and streamline and accelerate application development and deployment.
+EASeJ Tools beta simplifies the management of EASeJ applications directly within Visual Studio Code (VS Code). EASeJ Tools provides integrated and tailored help for configuring EASeJ environment YAMLs and repositories through inline assistance, validation, and more to minimize context switching, and streamline and accelerate application development and deployment.
 
-# Key features
+# Key features of the beta release
 
 - View EASeJ repositories: View all repositories that you have access to directly from VS Code. Get the right repository with minimal effort.
 - Create missing EASeJ YAML files: Automatically detect missing EASeJ-specific YAML files in your environment and create them with ease, saving you valuable time.
@@ -20,3 +20,11 @@ EASeJ Tools simplifies the management of EASeJ applications directly within Visu
 # How to get started
 
 - Install EASeJ Tools: Install the extension directly from the VS Code marketplace.
+
+## Feedback
+
+If you would like to provide feedback on your experience with EASeJ Tools beta, you can use the `IBM EASeJ Tools: Provide feedback` command from the Command Palette or click the Feedback icon within EASeJ Tools. For more details, refer to [this documentation](https://www.ibm.com/docs/en/SSN5B5F/doc/et-config.html).
+
+## Support
+
+If you would like to report a problem specifically related to the EASeJ Tools beta, create an issue using the [Issues tab](https://github.com/IBM/application-development-accelerators/issues).
