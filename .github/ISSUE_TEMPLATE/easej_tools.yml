@@ -1,5 +1,5 @@
 name: EASeJ Tools Issue Report
-description: Include feedback about EASeJ Tools Beta. It can be a bug you have found or an improvement you would like to see.
+description: Provide feedback about EASeJ Tools beta. It can be a bug you have found or an improvement you would like to see.
 title: "[EASeJ Tools beta]: "
 body:
   - type: markdown
