@@ -3,4 +3,4 @@ Empower developers with application development accelerators to simplify and aut
 
 **[IBM Application Modernization Accelerator Development Tools](./ama-dev-tools/README.md)**
 
-**[IBM Enterprise Application Service for Java Tools](./easej-tools/README.md)**
+**[IBM Enterprise Application Service for Java Tools](./easej-tools/README.md)** (**beta** - Visual Studio Code)
