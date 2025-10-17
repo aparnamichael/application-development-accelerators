@@ -12,7 +12,7 @@ By downloading the IBM Application Modernization Accelerator Developer Tools ext
 
 ### **Java runtime modernization**
 
-Analyze your legacy enterprise Java application and modernize it to use a more lightweight, flexible, and efficient runtime. Receive a prescriptive plan that describes the changes that are needed to modernize your application with a detailed assessment of complexity and required development effort. Use automation to quickly implement code and configuration changes.
+Analyze your legacy enterprise Java application and modernize it to use a more lightweight, flexible, and efficient runtime. Receive a prescriptive plan that describes the changes that are needed to modernize your application with a detailed assessment of complexity and required development effort. Use automation to quickly implement code and configuration changes. Migrate JAX-RPC services to JAX-WS services using automation and assistance with a source migration helper.
 
 
 ### **Java version upgrade**
