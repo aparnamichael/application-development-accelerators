@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Application Modernization Accelerator Developer Tools 1.1
+IBM Application Modernization Accelerator Developer Tools 1.1.x
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -46,22 +46,24 @@ Apache License, Version 2.0
 The Program includes some or all of the following that IBM obtained
 under the Apache License, Version 2.0:
 
-accessors-smart, apiguardian-api, chevrotain-11.0.3.tgz, colors-11.30.0.tgz,
-colors-11.36.0.tgz, commons-cli, commons-codec, commons-compress, commons-io,
-commons-lang3, cst-dts-gen-11.0.3.tgz, dompurify-3.2.6.tgz, dompurify-3.2.7.tgz, 
-error_prone_annotations, failureaccess, feature-flags-0.24.0.tgz,
-feature-flags-0.27.0.tgz, feature-flags-0.28.0.tgz, freemarker, gast-11.0.3.tgz,
-gradle-tooling-api, grid-11.32.0.tgz, grid-11.39.0.tgz, gson, guava,
-helpers-0.5.17.tgz, icon-helpers-10.56.0.tgz, icon-helpers-10.62.0.tgz,
-icons-react-11.57.0.tgz, icons-react-11.63.0.tgz, j2objc-annotations,
+accessors-smart, apiguardian-api, chevrotain-11.0.3.tgz, colors-11.36.0.tgz,
+colors-11.42.0.tgz, commons-cli, commons-codec, commons-compress, commons-io,
+commons-lang3, cst-dts-gen-11.0.3.tgz, detect-libc-1.0.3.tgz, dompurify-3.2.6.tgz,
+dompurify-3.3.0.tgz, error_prone_annotations, failureaccess, feature-flags-0.27.0.tgz,
+feature-flags-0.28.0.tgz, feature-flags-0.32.0.tgz, freemarker, gast-11.0.3.tgz,
+gradle-tooling-api, grid-11.39.0.tgz, grid-11.45.0.tgz, gson, guava,
+helpers-0.5.17.tgz, icon-helpers-10.62.0.tgz, icon-helpers-10.68.0.tgz,
+icons-react-11.63.0.tgz, icons-react-11.70.0.tgz, j2objc-annotations,
 java-parser-3.0.1.tgz, johnzon-core, json-path, json-smart, jsr305, justify,
-layout-11.30.0.tgz, layout-11.37.0.tgz, log4js-6.9.1.tgz, maven-invoker,
-maven-model, motion-11.25.0.tgz, motion-11.31.0.tgz, number-3.6.3.tgz, opentest4j,
-picocli, plexus-utils, react-1.78.0.tgz, react-1.86.0.tgz,
-regexp-to-ast-11.0.3.tgz, snakeyaml, styles-1.77.0.tgz, styles-1.86.0.tgz,
-ta-sdk-core, ta-sdk-spi, telemetry-js-1.9.1.tgz, themes-11.48.0.tgz,
-themes-11.56.0.tgz, tinylog-api, tinylog-impl, type-11.36.0.tgz, type-11.43.0.tgz,
-types-11.0.3.tgz, utilities-0.7.0.tgz, utils-11.0.3.tgz
+layout-11.37.0.tgz, layout-11.43.0.tgz, log4js-6.9.1.tgz, maven-invoker,
+maven-model, motion-11.31.0.tgz, motion-11.37.0.tgz, number-3.6.3.tgz,
+number-3.6.5.tgz, opentest4j, picocli, plexus-utils, react-1.86.0.tgz,
+react-1.96.0.tgz, regexp-to-ast-11.0.3.tgz, remapping-2.3.0.tgz, snakeyaml,
+styles-1.86.0.tgz, styles-1.95.0.tgz, ta-sdk-core, ta-sdk-spi,
+telemetry-js-1.10.2.tgz, telemetry-js-1.9.1.tgz, themes-11.56.0.tgz,
+themes-11.63.0.tgz, tinylog-api, tinylog-impl, type-11.43.0.tgz, type-11.49.0.tgz,
+types-11.0.3.tgz, typescript-5.9.3.tgz, utilities-0.12.0.tgz, utilities-0.7.0.tgz,
+utils-11.0.3.tgz
 
 
 Apache License
@@ -257,7 +259,6 @@ path-scurry-2.0.0.tgz
 End of Blue Oak Model License, Version 1.0.0 NOTICES AND INFORMATION
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 BSD Zero Clause license
 
 The Program includes some or all of the following that IBM obtained
@@ -323,6 +324,7 @@ under the BSD 3 Clause license:
 
 asm (Copyright 2000-2011 INRIA) (OW2)
 source-map-0.6.1.tgz (Copyright 2009-2011 Mozilla Foundation and contributors)
+source-map-js-1.2.1.tgz (Copyright 2009-2011 Mozilla Foundation and contributors)
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -373,12 +375,11 @@ ECLIPSE PUBLIC LICENSE, VERSION 2
 The Program includes some or all of the following that IBM obtained
 under the ECLIPSE PUBLIC LICENSE, VERSION 2 (source code available via the indicated URL):
 
-jakarta.json-api (https://repo.maven.apache.org/maven2/jakarta/json/jakarta.json-api/2.0.0)
+jakarta.json-api(https://repo.maven.apache.org/maven2/jakarta/json/jakarta.json-api/2.0.0)
 junit-platform-engine (https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/1.10.2/junit-platform-engine-1.10.2.jar)
 junit-jupiter-engine (https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.jar)
 junit-jupiter-api (https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.jar)
 junit-platform-commons (https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.jar)
-
 
 END OF ECLIPSE PUBLIC LICENSE, VERSION 2 NOTICES AND INFORMATION
 
@@ -389,20 +390,25 @@ The Program includes some or all of the following that IBM obtained
 under the ISC License:
 
 cliui-8.0.2.tgz (Copyright 2015 Contributors)
+electron-to-chromium-1.5.189.tgz (Copyright 2018 Kilian Valkhof)
 flatted-3.3.3.tgz (Copyright 2018-2020 Andrea Giammarchi)
 foreground-child-3.3.1.tgz (Copyright 2015-2023 Isaac Z. Schlueter and Contributors)
-glob-11.0.3.tgz (Copyright 2009-2023 Isaac Z. Schlueter and Contributors)
+glob-11.1.0.tgz (Copyright 2009-2023 Isaac Z. Schlueter and Contributors)
 graceful-fs-4.2.11.tgz (Copyright 2011-2022 Isaac Z. Schlueter)
 inherits-2.0.4.tgz (Copyright Isaac Z. Schlueter and Contributors)
 isexe-2.0.0.tgz (Copyright Isaac Z. Schlueter and Contributors)
 lru-cache-11.2.1.tgz (Copyright 2010-2023 Isaac Z. Schlueter and Contributors)
+lru-cache-5.1.1.tgz (Copyright Isaac Z. Schlueter and Contributors) (Copyright Isaac Z. Schlueter and Contributors)
 minimatch-10.0.3.tgz (Copyright 2011-2023 Isaac Z. Schlueter and Contributors)
 minipass-7.1.2.tgz (Copyright 2017-2023 npm, Inc)
+picocolors-1.1.1.tgz (Copyright 2021-2024 Oleksii Raspopov)
 sax-1.4.1.tgz (Copyright 2010-2024 Isaac Z. Schlueter and Contributors) (Copyright 2010-2024 Mathias Bynens <https://mathiasbynens.be/>)
 semver-5.7.2.tgz (Copyright Isaac Z. Schlueter and Contributors) (Copyright Isaac Z. Schlueter and Contributors)
+semver-6.3.1.tgz (Copyright Isaac Z. Schlueter and Contributors) (Copyright Isaac Z. Schlueter and Contributors)
 semver-7.7.2.tgz (Copyright Isaac Z. Schlueter and Contributors) (Copyright Isaac Z. Schlueter and Contributors)
 signal-exit-4.1.0.tgz (Copyright 2015-2023 Benjamin Coe)
 which-2.0.2.tgz (Copyright Isaac Z. Schlueter and Contributors)
+yallist-3.1.1.tgz (Copyright Isaac Z. Schlueter and Contributors)
 
 
 ISC License
@@ -434,62 +440,89 @@ ansi-styles-4.3.0.tgz (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindres
 ansi-styles-6.2.3.tgz (Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com))
 balanced-match-4.0.1.tgz (Copyright Isaac Z. Schlueter "i@izs.me" (mailto:i@izs.me)) (Copyright Julian Gruber "julian@juliangruber.com" (mailto:julian@juliangruber.com))
 brace-expansion-5.0.0.tgz (Copyright Isaac Z. Schlueter <i@izs.me>) (Copyright Julian Gruber <julian@juliangruber.com>)
+braces-3.0.3.tgz (Copyright 2014 Jon Schlinkert) (Copyright 2019 Jon Schlinkert" (https://github.com/jonschlinkert))
+browserslist-4.25.1.tgz (Copyright 2014 Andrey Sitnik <andrey@sitnik.ru> and other contributors)
 buffer-from-1.1.2.tgz (Copyright 2016-2018 Linus Unneb)
 checker-qual (Copyright 2004 by the Checker Framework developers)
 chevrotain-allstar-0.3.1.tgz (Copyright 2022 TypeFox GmbH)
+chokidar-4.0.3.tgz (Copyright 2012 Paul Miller (https://paulmillr.com), Elan Shanker) (Copyright 2013 Paul Miller (http://paulmillr.com)) (Copyright Paul Miller ("https://paulmillr.com" (https://paulmillr.com)), see "LICENSE" (LICENSE) file)
 classnames-2.5.1.tgz (Copyright 2018 Jed Watson)
 clone-deep-4.0.1.tgz (Copyright 2014-2018 Jon Schlinkert) (Copyright 2018 Jon Schlinkert" (https://github.com/jonschlinkert))
 clsx-1.2.1.tgz (Copyright Luke Edwards <luke.edwards05@gmail.com> (lukeed.com))
+code-frame-7.27.1.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
 color-4.2.3.tgz (Copyright 2012 Heather Arthur)
 color-convert-2.0.1.tgz (Copyright 2011-2016 Heather Arthur <fayearthur@gmail.com>) (Copyright 2011-2016 Heather Arthur and Josh Junon)
 color-name-1.1.4.tgz (Copyright 2015 Dmitry Ivanov)
 color-string-1.9.1.tgz (Copyright 2011 Heather Arthur <fayearthur@gmail.com>)
 commondir-1.0.1.tgz (Copyright 2013 James Halliday (mail@substack.net))
+compat-data-7.28.0.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
 compute-scroll-into-view-3.1.1.tgz (Copyright 2025 Cody Olsen)
+convert-source-map-2.0.0.tgz (Copyright 2013 Thorsten Lorenz)
 copy-to-clipboard-3.3.3.tgz (Copyright 2017 sudodoki <smd.deluzion@gmail.com>)
 core-1.6.9.tgz (Copyright 2021 Floating UI contributors)
 core-1.7.2.tgz (Copyright 2021 Floating UI contributors)
+core-7.28.0.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
 core-util-is-1.0.3.tgz (Copyright Node.js contributors)
 cross-spawn-7.0.6.tgz (Copyright 2018 Made With MOXY Lda <hello@moxy.studio>)
-csstype-3.1.3.tgz (Copyright 2017-2018 Fredrik Nicol)
+csstype-3.2.3.tgz (Copyright 2017-2018 Fredrik Nicol)
 date-format-4.0.14.tgz (Copyright 2013 Gareth Jones)
 debug-4.4.1.tgz (Copyright 2014-2017 TJ Holowaychuk <tj@vision-media.ca>) (Copyright 2018-2021 Josh Junon)
 dom-1.6.13.tgz (Copyright 2021 Floating UI contributors)
 dom-1.7.2.tgz (Copyright 2021 Floating UI contributors)
 dom-serializer-2.0.0.tgz (Copyright 2014 The cheeriojs contributors)
-downshift-9.0.8.tgz (Copyright 2017 PayPal)
+downshift-9.0.10.tgz (Copyright 2017 PayPal)
 downshift-9.0.9.tgz (Copyright 2017 PayPal)
-eastasianwidth-0.2.0.tgz(Copyright Komagata)
+eastasianwidth-0.2.0.tgz(Copyright komagata)
 emoji-regex-8.0.0.tgz (Copyright Mathias Bynens <https://mathiasbynens.be/>)
 emoji-regex-9.2.2.tgz (Copyright Mathias Bynens <https://mathiasbynens.be/>)
 es-toolkit-1.33.0.tgz (Copyright 2024 Viva Republica, Inc) (Copyright Viva Republica, Inc.)
 esbuild-windows-64-0.14.54.tgz (Copyright 2020 Evan Wallace)
+escalade-3.2.0.tgz (Copyright Luke Edwards) (Copyright Luke Edwards <luke.edwards05@gmail.com> (lukeed.com))
+fill-range-7.1.1.tgz (Copyright 2014 Jon Schlinkert) (Copyright 2019 Jon Schlinkert" (https://github.com/jonschlinkert))
 find-cache-dir-2.1.0.tgz (Copyright James Talmage <james@talmage.io> (github.com/jamestalmage))
 find-up-3.0.0.tgz (Copyright Sindre Sorhus) (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
 flatpickr-4.6.13.tgz (Copyright 2017 Gregory Petrosyan)
 fs-extra-11.3.0.tgz (Copyright 2011-2024 JP Richardson)
 fs-extra-8.1.0.tgz (Copyright 2011-2017 "JP Richardson" (https://github.com/jprichardson)) (Copyright 2011-2017 JP Richardson) (Copyright 2011-2017 [JP Richardson](https://github.com/jprichardson))
 fs-extra-8.1.5.tgz (Copyright Microsoft Corporation)
-html-dom-parser-5.1.1.tgz (Copyright 2016 Menglin "Mark" Xu <mark@remarkablemark.org>)
+gen-mapping-0.3.12.tgz (Copyright 2024 Justin Ridgewell <justin@ridgewell.name>)
+generator-7.28.0.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
+gensync-1.0.0-beta.2.tgz (Copyright 2018 Logan Smyth <loganfsmyth@gmail.com>)
+helper-compilation-targets-7.27.2.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
+helper-globals-7.28.0.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
+helper-module-imports-7.27.1.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
+helper-module-transforms-7.27.3.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
+helper-string-parser-7.27.1.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
+helper-validator-identifier-7.27.1.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
+helper-validator-option-7.27.1.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
+helpers-7.27.6.tgz (Copyright 2014 Facebook, Inc) (Copyright 2014 Sebastian McKenzie and other contributors)
+html-dom-parser-5.1.2.tgz (Copyright 2016 Menglin "Mark" Xu <mark@remarkablemark.org>)
 html-parse-stringify-3.0.1.tgz (Copyright UNSPECIFIED)
-html-react-parser-5.2.6.tgz (Copyright 2016 Menglin "Mark" Xu <mark@remarkablemark.org>)
+html-react-parser-5.2.10.tgz (Copyright 2016 Menglin "Mark" Xu <mark@remarkablemark.org>)
 htmlparser2-10.0.0.tgz (Copyright 2010-2011 Chris Winberry <chris@winberry.net>)
-i18next-24.2.2.tgz (Copyright 2025 i18next)
-i18next-browser-languagedetector-8.0.4.tgz (Copyright 2024 i18next)
+i18next-25.6.3.tgz (Copyright 2025 i18next)
+i18next-browser-languagedetector-8.2.0.tgz (Copyright 2025 i18next)
 immediate-3.0.6.tgz (Copyright 2012 Barnesandnoble.com, llc, Donavon West, Domenic Denicola, Brian Cavalier)
-inline-style-parser-0.2.4.tgz (Copyright 2012 TJ Holowaychuk <tj@vision-media.ca>)
+immutable-5.0.3.tgz (Copyright 2014 Lee Byron and other contributors)
+inline-style-parser-0.2.7.tgz (Copyright 2012 TJ Holowaychuk <tj@vision-media.ca>)
 invariant-2.2.4.tgz (Copyright 2013 Facebook, Inc)
 is-arrayish-0.3.2.tgz (Copyright 2015 JD Ballard)
+is-arrayish-0.3.4.tgz (Copyright 2015 JD Ballard)
+is-extglob-2.1.1.tgz (Copyright 2014-2016 Jon Schlinkert) (Copyright 2016 Jon Schlinkert" (https://github.com/jonschlinkert)) (Copyright 2016 [Jon Schlinkert](https://github.com/jonschlinkert))
 is-fullwidth-code-point-3.0.0.tgz (Copyright Sindre Sorhus) (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
+is-glob-4.0.3.tgz (Copyright 2014-2017 Jon Schlinkert) (Copyright 2019 Jon Schlinkert" (https://github.com/jonschlinkert))
+is-number-7.0.0.tgz (Copyright 2014 Jon Schlinkert) (Copyright 2018 Jon Schlinkert" (https://github.com/jonschlinkert)) (Copyright 2018 [Jon Schlinkert](https://github.com/jonschlinkert))
 is-plain-object-2.0.4.tgz (Copyright 2014-2017 Jon Schlinkert) (Copyright 2017 Jon Schlinkert" (https://github.com/jonschlinkert))
 isarray-1.0.0.tgz (Copyright 2013 Julian Gruber <julian@juliangruber.com>)
 isobject-3.0.1.tgz (Copyright 2014-2017 Jon Schlinkert) (Copyright 2017 Jon Schlinkert" (https://github.com/jonschlinkert)) (Copyright 2017 [Jon Schlinkert](https://github.com/jonschlinkert))
 js-tokens-4.0.0.tgz (Copyright 2014-2015 2016, 2017, 2018 Simon Lydell) (Copyright 2014-2018 Simon Lydell)
+jsesc-3.1.0.tgz (Copyright Mathias Bynens <https://mathiasbynens.be/>)
+json5-2.2.3.tgz (Copyright 2012-2018 Aseem Kishore)
 jsonfile-4.0.0.tgz (Copyright 2012-2015 JP Richardson <jprichardson@gmail.com>) (Copyright 2012-2016 JP Richardson) (Copyright 2012-2016 JP Richardson  <jprichardson@gmail.com>)
 jsonfile-6.1.0.tgz (Copyright 2012-2015 JP Richardson <jprichardson@gmail.com>) (Copyright 2012-2016 JP Richardson)
 jszip-3.10.1.tgz (Copyright 2009-2016 Stuart Knightley)
 kind-of-6.0.3.tgz (Copyright 2014-2017 Jon Schlinkert) (Copyright 2020 "Jon Schlinkert" (https://github.com/jonschlinkert)) (Copyright 2020 [Jon Schlinkert](https://github.com/jonschlinkert))
-l10n-0.0.18.tgz(Copyright Microsoft Corporation)
+l10n-0.0.18.tgz(Copyright Not Found)
 lie-3.3.0.tgz (Copyright 2014-2018 Calvin Metcalf) (Copyright 2014-2018 Calvin Metcalf, Jordan Harband)
 locate-path-3.0.0.tgz (Copyright Sindre Sorhus) (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
 lodash-4.17.21.tgz (Copyright OpenJS Foundation and other contributors <https://openjsf.org/>)
@@ -498,16 +531,21 @@ lodash.debounce-4.0.8.tgz (Copyright jQuery Foundation and other contributors <h
 lombok (Copyright 2000-2011 INRIA) (Copyright 2009-2021 The Project Lombok Authors) (Copyright 2010 Reinier Zwitserloot)
 loose-envify-1.4.0.tgz (Copyright 2015 Andres Suarez <zertosh@gmail.com>)
 make-dir-2.1.0.tgz (Copyright Sindre Sorhus) (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
+micromatch-4.0.8.tgz (Copyright 2014 Jon Schlinkert) (Copyright 2024 Jon Schlinkert" (https://github.com/jonschlinkert))
 moment-2.30.1.tgz (Copyright JS Foundation and other contributors)
 ms-2.1.3.tgz (Copyright 2020 Vercel, Inc)
 node-18.19.120.tgz (Copyright Microsoft Corporation)
+node-addon-api-7.1.1.tgz (Copyright 2017 Node.js API collaborators" (https://github.com/nodejs/node-addon-api#collaborators))
+node-releases-2.0.19.tgz (Copyright 2017 Sergey Rubanov (https://github.com/chicoxyzzy))
 object-assign-4.1.1.tgz (Copyright Sindre Sorhus) (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
 p-limit-2.3.0.tgz (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
 p-locate-3.0.0.tgz (Copyright Sindre Sorhus) (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
 p-try-2.2.0.tgz (Copyright Sindre Sorhus) (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
 pako-1.0.11.tgz (Copyright 2014-2017 by Vitaly Puzrin and Andrei Tuputcyn)
+parser-7.28.0.tgz (Copyright 2012-2014 by various contributors)
 path-exists-3.0.0.tgz (Copyright Sindre Sorhus) (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
 path-key-3.1.1.tgz (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
+picomatch-2.3.1.tgz (Copyright 2017 Jon Schlinkert) (Copyright 2017 Jon Schlinkert" (https://github.com/jonschlinkert))
 pify-4.0.1.tgz (Copyright Sindre Sorhus) (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
 pirates-4.0.7.tgz (Copyright 2016-2018 Ari Porad)
 pkg-dir-3.0.0.tgz (Copyright Sindre Sorhus) (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
@@ -516,51 +554,62 @@ prop-types-15.8.1.tgz (Copyright 2013 Facebook, Inc)
 react-0.27.13.tgz (Copyright 2021 Floating UI contributors)
 react-0.27.5.tgz (Copyright 2021 Floating UI contributors)
 react-18.3.1.tgz (Copyright Facebook, Inc. and its affiliates)
-react-19.0.0.tgz (Copyright Meta Platforms, Inc. and affiliates)
-react-19.0.10.tgz (Copyright Microsoft Corporation)
+react-19.2.0.tgz (Copyright Meta Platforms, Inc. and affiliates)
+react-19.2.6.tgz (Copyright Microsoft Corporation)
 react-dom-18.3.1.tgz (Copyright Facebook, Inc. and its affiliates)
-react-dom-19.0.0.tgz (Copyright Meta Platforms, Inc. and affiliates)
+react-dom-19.2.0.tgz (Copyright Meta Platforms, Inc. and affiliates)
 react-dom-2.1.2.tgz (Copyright 2021 Floating UI contributors)
 react-dom-2.1.4.tgz (Copyright 2021 Floating UI contributors)
 react-draggable-4.4.6.tgz (Copyright 2014-2016 Matt Zabriskie)
 react-fast-compare-3.2.2.tgz (Copyright 2017 Evgeny Poberezkin) (Copyright 2018 Formidable Labs)
-react-i18next-15.4.1.tgz (Copyright 2024 i18next)
+react-i18next-16.3.5.tgz (Copyright 2025 i18next)
 react-is-16.13.1.tgz (Copyright Facebook, Inc. and its affiliates)
 react-is-18.2.0.tgz (Copyright Facebook, Inc. and its affiliates)
-react-property-2.0.2.tgz (Copyright Not Found)
+react-is-18.3.1.tgz (Copyright Facebook, Inc. and its affiliates)
+react-is-19.0.0.tgz (Copyright Meta Platforms, Inc. and affiliates)
+react-property-2.0.2.tgz(Copyright Not Found)
 readable-stream-2.3.8.tgz (Copyright Node.js contributors)
-regenerator-runtime-0.14.1.tgz (Copyright 2014 Facebook, Inc)
+readdirp-4.1.2.tgz (Copyright 2012-2019 Thorsten Lorenz)
 register-7.27.1.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
-resize-observer-polyfill-1.5.1.tgz (Copyright 2016 Denis Rul)
+resolve-uri-3.1.2.tgz (Copyright 2019 Justin Ridgewell <jridgewell@google.com>)
 rfdc-1.4.1.tgz (Copyright 2019 David Mark Clements <david.mark.clements@gmail.com>")
-runtime-7.26.10.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
 runtime-7.27.6.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
+runtime-7.28.4.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
 safe-buffer-5.1.2.tgz (Copyright Feross Aboukhadijeh) (Copyright Feross Aboukhadijeh" (http://feross.org))
+sass-1.85.1.tgz (Copyright 2016 Google Inc.)
 scheduler-0.23.2.tgz (Copyright Facebook, Inc. and its affiliates)
-scheduler-0.25.0.tgz (Copyright Meta Platforms, Inc. and affiliates)
+scheduler-0.27.0.tgz (Copyright Meta Platforms, Inc. and affiliates)
 setimmediate-1.0.5.tgz (Copyright 2012 Barnesandnoble.com, llc, Donavon West, and Domenic Denicola)
 shallow-clone-3.0.1.tgz (Copyright 2015 Jon Schlinkert) (Copyright 2019 Jon Schlinkert" (https://github.com/jonschlinkert))
 shebang-command-2.0.0.tgz (Copyright Kevin Mårtensson <kevinmartensson@gmail.com> (github.com/kevva))
 shebang-regex-3.0.0.tgz (Copyright Sindre Sorhus) (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
 simple-swizzle-0.2.2.tgz (Copyright 2015 Josh Junon)
+simple-swizzle-0.2.4.tgz (Copyright 2015 Josh Junon)
 slf4j-api (Copyright 2004-2022 QOS.ch Sarl) (QOS.ch)
 slf4j-simple (Copyright 2004-2022 QOS.ch Sarl) (QOS.ch)
 source-map-support-0.5.21.tgz (Copyright 2014 Evan Wallace)
+sourcemap-codec-1.5.4.tgz (Copyright 2024 Justin Ridgewell <justin@ridgewell.name>)
 streamroller-3.1.5.tgz (Copyright 2013 Gareth Jones)
 string-width-4.2.3.tgz (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
 string-width-5.1.2.tgz (Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com))
 string_decoder-1.1.1.tgz (Copyright Node.js contributors)
 strip-ansi-6.0.1.tgz (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
 strip-ansi-7.1.2.tgz (Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com))
-style-to-js-1.1.17.tgz (Copyright 2020 Menglin "Mark" Xu <mark@remarkablemark.org>)
-style-to-object-1.0.9.tgz (Copyright 2017 Menglin "Mark" Xu <mark@remarkablemark.org>)
+style-to-js-1.1.21.tgz (Copyright 2020 Menglin "Mark" Xu <mark@remarkablemark.org>)
+style-to-object-1.0.14.tgz (Copyright 2017 Menglin "Mark" Xu <mark@remarkablemark.org>)
 tabbable-6.2.0.tgz (Copyright 2015 David Clark)
+template-7.27.2.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
+to-regex-range-5.0.1.tgz (Copyright 2015 Jon Schlinkert) (Copyright 2019 Jon Schlinkert" (https://github.com/jonschlinkert))
 toggle-selection-1.0.6.tgz (Copyright 2017.0 sudodoki)
+trace-mapping-0.3.29.tgz (Copyright 2024 Justin Ridgewell <justin@ridgewell.name>)
+traverse-7.28.0.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
 trusted-types-2.0.7.tgz (Copyright Microsoft Corporation)
+types-7.28.1.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
 undici-types-5.26.5.tgz (Copyright Matteo Collina and Undici contributors)
 universalify-0.1.2.tgz (Copyright 2017 Ryan Zimmerman <opensrc@ryanzim.com>)
 universalify-2.0.1.tgz (Copyright 2017 Ryan Zimmerman <opensrc@ryanzim.com>)
-use-resize-observer-6.1.0.tgz (Copyright 2018 Viktor Hubert <rpgmorpheus@gmail.com>)
+update-browserslist-db-1.1.3.tgz (Copyright 2022 Andrey Sitnik <andrey@sitnik.ru> and other contributors)
+use-sync-external-store-1.6.0.tgz (Copyright Meta Platforms, Inc. and affiliates)
 usehooks-ts-2.16.0.tgz (Copyright 2020 Julien CARON)
 usehooks-ts-3.1.1.tgz (Copyright 2020 Julien CARON)
 util-deprecate-1.0.2.tgz (Copyright 2014 Nathan Rajlich "nathan@tootallnate.net" (mailto:nathan@tootallnate.net)) (Copyright 2014 Nathan Rajlich <nathan@tootallnate.net>)
@@ -568,8 +617,22 @@ utils-0.2.10.tgz (Copyright 2021 Floating UI contributors)
 utils-0.2.9.tgz (Copyright 2021 Floating UI contributors)
 uuid-9.0.1.tgz (Copyright 2010-2020 Robert Kieffer and other contributors)
 void-elements-3.1.0.tgz (Copyright 2014 hemanth)
+watcher-2.5.1.tgz (Copyright 2017 Devon Govett)
+watcher-android-arm64-2.5.1.tgz (Copyright 2017 Devon Govett)
+watcher-darwin-arm64-2.5.1.tgz (Copyright 2017 Devon Govett)
+watcher-darwin-x64-2.5.1.tgz (Copyright 2017 Devon Govett)
+watcher-freebsd-x64-2.5.1.tgz (Copyright 2017 Devon Govett)
+watcher-linux-arm-glibc-2.5.1.tgz (Copyright 2017 Devon Govett)
+watcher-linux-arm-musl-2.5.1.tgz (Copyright 2017 Devon Govett)
+watcher-linux-arm64-glibc-2.5.1.tgz (Copyright 2017 Devon Govett)
+watcher-linux-arm64-musl-2.5.1.tgz (Copyright 2017 Devon Govett)
+watcher-linux-x64-glibc-2.5.1.tgz (Copyright 2017 Devon Govett)
+watcher-linux-x64-musl-2.5.1.tgz (Copyright 2017 Devon Govett)
+watcher-win32-arm64-2.5.1.tgz (Copyright 2017 Devon Govett)
+watcher-win32-ia32-2.5.1.tgz (Copyright 2017 Devon Govett)
+watcher-win32-x64-2.5.1.tgz (Copyright 2017 Devon Govett)
 window-or-global-1.0.1.tgz (Copyright Purpose Industries)
-
+window-or-global-1.1.0.tgz (Copyright Not Found)
 wrap-ansi-7.0.0.tgz (Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com))
 wrap-ansi-8.1.0.tgz (Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com))
 xml2js-0.6.2.tgz (Copyright parser, for whatever reason?)
@@ -638,6 +701,6 @@ END OF IBM Application Modernization Accelerator Developer Tools NOTICES AND INF
 END OF NOTICES AND INFORMATION FILE
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-L/N: L-UVMN-EH2GQF
-D/N: L-UVMN-EH2GQF
-P/N: L-UVMN-EH2GQF
+L/N: L-XHLP-F4GFJ4
+D/N: L-XHLP-F4GFJ4
+P/N: L-XHLP-F4GFJ4
