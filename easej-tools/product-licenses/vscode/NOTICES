@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
- IBM Enterprise Application Service for Java Tools 
+ IBM Enterprise Application Service for Java Tools Beta
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -32,6 +32,7 @@ THIS IBM NOTICES FILE CONSISTS OF THE FOLLOWING SECTIONS:
 Apache License, Version 2.0 (APACHE V2)
 BSD 2 Clause license (BSD-2-CLAUSE)
 BSD 3 Clause license (BSD-3-CLAUSE)
+Blue Oak Model License (Blueoak 1.0.0)
 ISC License (ISC)
 MIT license (MIT)
 
@@ -41,7 +42,7 @@ Apache License, Version 2.0
 The Program includes some or all of the following that IBM obtained
 under the Apache License, Version 2.0:
 
-typescript-5.9.2.tgz
+log4js-6.9.1.tgz, short-unique-id-5.3.2.tgz, typescript-5.9.3.tgz
 
 
 Apache License
@@ -230,6 +231,9 @@ The Program includes some or all of the following that IBM obtained
 under the BSD 2 Clause license:
 
 dotenv-16.6.1.tgz (Copyright 2015 Scott Motte)
+vscode-json-languageservice-4.1.8.tgz (Copyright 2013, Nick Fitzgerald)
+vscode-json-languageservice-5.7.1.tgz (Copyright 2013, Nick Fitzgerald)
+
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -261,10 +265,9 @@ BSD 3 Clause license
 The Program includes some or all of the following that IBM obtained
 under the BSD 3 Clause license:
 
-diff-4.0.2.tgz (Copyright 2009-2015 Kevin Decker <kpdecker@gmail.com>)
 fast-uri-3.1.0.tgz (Copyright 2011-2021 Gary Court until https://github.com/garycourt/uri) (Copyright 2021 The Fastify team)
 ieee754-1.2.1.tgz (Copyright 2008 Fair Oaks Labs, Inc)
-qs-6.14.0.tgz (Copyright 2014 Nathan LaFreniere and other "contributors" (https://github.com/ljharb/qs/graphs/contributors))
+qs-6.15.0.tgz (Copyright 2014 Nathan LaFreniere and other "contributors" https://github.com/ljharb/qs/graphs/contributors)
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -295,17 +298,31 @@ POSSIBILITY OF SUCH DAMAGE.
 END OF BSD 3 Clause license NOTICES AND INFORMATION
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Blue Oak Model License
+
+The Program includes some or all of the following that IBM obtained
+under the Blue Oak Model License:
+
+cliui-9.0.0.tgz, jackspeak-4.2.3.tgz, minimatch-10.2.1.tgz
+
+
+The Program includes some or all of the following that IBM obtained
+under the Blue Oak Model License Version 1.0.0 https://blueoakcouncil.org/license/1.0.0:
+
+END OF Blue Oak Model License NOTICES AND INFORMATION
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ISC License
 
 The Program includes some or all of the following that IBM obtained
 under the ISC License:
 
+flatted-3.3.3.tgz (Copyright 2018-2020 Andrea Giammarchi)
+graceful-fs-4.2.11.tgz (Copyright 2011-2022 Isaac Z. Schlueter)
 inherits-2.0.4.tgz (Copyright Isaac Z. Schlueter and Contributors)
-make-error-1.3.6.tgz (Copyright 2014 Julien Fontanet)
-minimatch-10.0.3.tgz (Copyright 2011-2023 Isaac Z. Schlueter and Contributors)
 minimatch-5.1.6.tgz (Copyright 2011-2023 Isaac Z. Schlueter and Contributors)
-semver-7.7.3.tgz (Copyright Isaac Z. Schlueter and Contributors) (Copyright Isaac Z. Schlueter and Contributors)
-yaml-2.2.2.tgz (Copyright Eemeli Aro <eemeli@gmail.com>)
+semver-7.7.4.tgz (Copyright Isaac Z. Schlueter and Contributors) (Copyright Isaac Z. Schlueter and Contributors)
+yaml-2.7.1.tgz (Copyright Eemeli Aro <eemeli@gmail.com>)
 
 
 ISC License
@@ -331,36 +348,34 @@ MIT license
 The Program includes some or all of the following that IBM obtained
 under the MIT license:
 
-acorn-8.15.0.tgz (Copyright 2012-2022 by various contributors)
-acorn-walk-8.3.4.tgz (Copyright 2012-2018 by various contributors (see AUTHORS)) (Copyright 2012-2020 by various contributors)
-ajv-8.17.1.tgz (Copyright 2015-2021 Evgeny Poberezkin)
-arg-4.1.3.tgz (Copyright 2017-2019 Zeit, Inc) (Copyright 2017-2019 by ZEIT, Inc)
+ajv-8.18.0.tgz (Copyright 2015-2021 Evgeny Poberezkin)
+ajv-draft-04-1.0.0.tgz (Copyright 2021 Evgeny Poberezkin)
 assertion-error-1.1.0.tgz (Copyright 2013 Jake Luer jake@qualiancy.com (http://qualiancy.com))
 async-3.2.6.tgz (Copyright 2010-2018 Caolan McMahon)
 asynckit-0.4.0.tgz (Copyright 2016 Alex Indigo)
-axios-1.12.2.tgz (Copyright 2014 Matt Zabriskie & Collaborators)
+axios-1.13.5.tgz (Copyright 2014 Matt Zabriskie & Collaborators)
 balanced-match-1.0.2.tgz (Copyright 2013 Julian Gruber <julian@juliangruber.com>)
-balanced-match-4.0.1.tgz (Copyright Isaac Z. Schlueter "i@izs.me" (mailto:i@izs.me)) (Copyright Julian Gruber "julian@juliangruber.com" (mailto:julian@juliangruber.com))
+balanced-match-4.0.2.tgz (Copyright Isaac Z. Schlueter "i@izs.me" mailto:i@izs.me) (Copyright Julian Gruber "julian@juliangruber.com" mailto:julian@juliangruber.com)
 base64-js-1.5.1.tgz (Copyright 2014 Jameson Little)
 brace-expansion-2.0.2.tgz (Copyright 2013 Julian Gruber <julian@juliangruber.com>)
-brace-expansion-5.0.0.tgz (Copyright Isaac Z. Schlueter <i@izs.me>) (Copyright Julian Gruber <julian@juliangruber.com>)
+brace-expansion-5.0.2.tgz (Copyright Isaac Z. Schlueter <i@izs.me>) (Copyright Julian Gruber <julian@juliangruber.com>)
 buffer-6.0.3.tgz (Copyright Feross Aboukhadijeh, and other contributors)
 call-bind-apply-helpers-1.0.2.tgz (Copyright 2024 Jordan Harband)
 call-bound-1.0.4.tgz (Copyright 2024 Jordan Harband)
 chai-4.5.0.tgz (Copyright 2017 Chai.js Assertion Library)
 check-error-1.0.3.tgz (Copyright 2013 Jake Luer <jake@alogicalparadox.com> (http://alogicalparadox.com))
-color-3.2.1.tgz (Copyright 2012 Heather Arthur)
-color-convert-1.9.3.tgz (Copyright 2011-2016 Heather Arthur <fayearthur@gmail.com>) (Copyright 2011-2016 Heather Arthur and Josh Junon)
-color-name-1.1.3.tgz (Copyright 2015 Dmitry Ivanov)
-color-name-1.1.4.tgz (Copyright 2015 Dmitry Ivanov)
-color-string-1.9.1.tgz (Copyright 2011 Heather Arthur <fayearthur@gmail.com>)
+color-5.0.3.tgz (Copyright 2012 Heather Arthur)
+color-convert-3.1.3.tgz (Copyright 2011-2016 Heather Arthur) (Copyright 2011-2016 Heather Arthur <fayearthur@gmail.com>) (Copyright 2016-2021 Josh Junon) (Copyright 2016-2021 Josh Junon <josh@junon.me>)
+color-name-2.1.0.tgz (Copyright 2015 Dmitry Ivanov)
+color-string-2.1.4.tgz (Copyright 2011 Heather Arthur <fayearthur@gmail.com>)
 colors-1.6.0.tgz (Copyright DABH (https://github.com/DABH)) (Copyright Marak Squires) (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
-colorspace-1.1.4.tgz (Copyright 2015 Arnout Kazemier, Martijn Swaagman, the Contributors)
+colorspace-1.1.6.tgz (Copyright 2015 Arnout Kazemier, Martijn Swaagman, the Contributors)
 combined-stream-1.0.8.tgz (Copyright 2011 Debuggable Limited <felix@debuggable.com>)
-create-require-1.1.1.tgz (Copyright 2020)
+date-format-4.0.14.tgz (Copyright 2013 Gareth Jones)
+debug-4.4.3.tgz (Copyright 2014-2017 TJ Holowaychuk <tj@vision-media.ca>) (Copyright 2018-2021 Josh Junon)
 deep-eql-4.1.4.tgz (Copyright 2013 Jake Luer <jake@alogicalparadox.com> (http://alogicalparadox.com))
 delayed-stream-1.0.0.tgz (Copyright 2011 Debuggable Limited <felix@debuggable.com>)
-diagnostics-2.0.3.tgz (Copyright 2015 Arnout Kazemier, Martijn Swaagman, the Contributors)
+diagnostics-2.0.8.tgz (Copyright 2015 Arnout Kazemier, Martijn Swaagman, the Contributors)
 dunder-proto-1.0.1.tgz (Copyright 2024 ECMAScript Shims)
 enabled-2.0.0.tgz (Copyright 2015 Arnout Kazemier, Martijn Swaagman, the Contributors)
 es-define-property-1.0.1.tgz (Copyright 2024 Jordan Harband)
@@ -372,7 +387,8 @@ fecha-4.2.3.tgz (Copyright 1971-2030 td>) (Copyright 2014 rd,) (Copyright 2015 T
 file-stream-rotator-0.6.1.tgz (Copyright 2022 Roger Castells)
 fn.name-1.1.0.tgz (Copyright 2015 Arnout Kazemier, Martijn Swaagman, the Contributors)
 follow-redirects-1.15.11.tgz (Copyright 2014 Olivier Lalonde <olalonde@gmail.com>, James Talmage <james@talmage.io>, Ruben Verborgh)
-form-data-4.0.4.tgz (Copyright 2012 Felix Geisendörfer (felix@debuggable.com) and contributors)
+form-data-4.0.5.tgz (Copyright 2012 Felix Geisendörfer felix@debuggable.com and contributors)
+fs-extra-8.1.0.tgz (Copyright 2011-2017 "JP Richardson" (https://github.com/jprichardson)) (Copyright 2011-2017 JP Richardson) (Copyright 2011-2017 [JP Richardson](https://github.com/jprichardson))
 function-bind-1.1.2.tgz (Copyright 2013 Raynos)
 get-func-name-2.0.2.tgz (Copyright 2013 Jake Luer <jake@alogicalparadox.com> (http://alogicalparadox.com))
 get-intrinsic-1.3.0.tgz (Copyright 2020 Jordan Harband)
@@ -381,13 +397,14 @@ gopd-1.2.0.tgz (Copyright 2022 Jordan Harband)
 has-symbols-1.1.0.tgz (Copyright 2016 Jordan Harband)
 has-tostringtag-1.0.2.tgz (Copyright 2021 Inspect JS)
 hasown-2.0.2.tgz (Copyright Jordan Harband and contributors)
-is-arrayish-0.3.4.tgz (Copyright 2015 JD Ballard)
 is-stream-2.0.1.tgz (Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com))
 json-schema-traverse-1.0.0.tgz (Copyright 2017 Evgeny Poberezkin)
 jsonc-parser-3.3.1.tgz (Copyright 2018 Microsoft) (Copyright Microsoft)
+jsonfile-4.0.0.tgz (Copyright 2012-2015 JP Richardson <jprichardson@gmail.com>) (Copyright 2012-2016 JP Richardson) (Copyright 2012-2016 JP Richardson  <jprichardson@gmail.com>)
+jwt-decode-4.0.0.tgz (Copyright 2015 Auth0, Inc)
 kuler-2.0.0.tgz (Copyright 2014 Arnout Kazemier)
-l10n-0.0.18.tgz ((Copyright Microsoft Corporation)
-lodash-4.17.21.tgz (Copyright OpenJS Foundation and other contributors <https://openjsf.org/>)
+l10n-0.0.18.tgz(Copyright Microsoft Corporation)
+lodash-4.17.23.tgz (Copyright OpenJS Foundation and other contributors <https://openjsf.org/>)
 logform-2.7.0.tgz (Copyright 2017 Charlie Robbins & the Contributors)
 loupe-2.3.7.tgz (Copyright 2011-2013 Jake Luer jake@alogicalparadox.com)
 math-intrinsics-1.1.0.tgz (Copyright 2024 ECMAScript Shims)
@@ -395,63 +412,57 @@ mime-db-1.52.0.tgz (Copyright 2014 Jonathan Ong <me@jongleberry.com>) (Copyright
 mime-types-2.1.35.tgz (Copyright 2014 Jonathan Ong <me@jongleberry.com>) (Copyright 2015 Douglas Christopher Wilson <doug@somethingdoug.com>)
 moment-2.30.1.tgz (Copyright JS Foundation and other contributors)
 ms-2.1.3.tgz (Copyright 2020 Vercel, Inc)
-node-22.18.3.tgz (Copyright Microsoft Corporation)
-node10-1.0.11.tgz (Copyright Microsoft Corporation)
-node12-1.0.11.tgz (Copyright Microsoft Corporation)
-node14-1.0.3.tgz (Copyright Microsoft Corporation)
-node16-1.0.4.tgz (Copyright Microsoft Corporation)
+ncp-2.0.0.tgz (Copyright 2011 by Charlie McConnell)
+node-22.19.11.tgz (Copyright Microsoft Corporation)
 object-hash-3.0.0.tgz (Copyright 2014 object-hash contributors)
 object-inspect-1.13.4.tgz (Copyright 2013 James Halliday)
 one-time-1.0.0.tgz (Copyright 2015 Unshift.io, Arnout Kazemier,  the Contributors)
 os-0.1.2.tgz(Copyright Not Found)
 path-browserify-1.0.1.tgz (Copyright 2013 James Halliday)
 pathval-1.1.1.tgz (Copyright 2011-2013 Jake Luer jake@alogicalparadox.com)
-prettier-3.6.2.tgz  (Copyright © James Long and contributors)
+prettier-3.8.1.tgz (Copyright James Long and contributors)
 process-0.11.10.tgz (Copyright 2013 Roman Shtylman <shtylman@gmail.com>)
 proxy-from-env-1.1.0.tgz (Copyright 2016-2018 Rob Wu <rob@robwu.nl>)
 punycode-1.4.1.tgz (Copyright Mathias Bynens <https://mathiasbynens.be/>)
 readable-stream-3.6.2.tgz (Copyright Node.js contributors)
 request-light-0.5.8.tgz (Copyright Microsoft)
 require-from-string-2.0.2.tgz (Copyright Vsevolod Strukchinsky) (Copyright Vsevolod Strukchinsky <floatdrop@gmail.com> (github.com/floatdrop))
-resolve-uri-3.1.2.tgz (Copyright 2019 Justin Ridgewell <jridgewell@google.com>)
+rfdc-1.4.1.tgz (Copyright 2019 David Mark Clements <david.mark.clements@gmail.com>")
 safe-buffer-5.2.1.tgz (Copyright Feross Aboukhadijeh)
 safe-stable-stringify-2.5.0.tgz (Copyright Ruben Bridgewater)
 side-channel-1.1.0.tgz (Copyright 2019 Jordan Harband)
 side-channel-list-1.0.0.tgz (Copyright 2024 Jordan Harband)
 side-channel-map-1.0.1.tgz (Copyright 2024 Jordan Harband)
 side-channel-weakmap-1.0.2.tgz (Copyright 2019 Jordan Harband)
-simple-swizzle-0.2.4.tgz (Copyright 2015 Josh Junon)
-source-map-support-0.8.1.tgz (Copyright 2014 Evan Wallace)
-sourcemap-codec-1.5.5.tgz (Copyright 2024 Justin Ridgewell <justin@ridgewell.name>)
 stack-trace-0.0.10.tgz (Copyright 2011 Felix Geisendörfer (felix@debuggable.com))
+streamroller-3.1.5.tgz (Copyright 2013 Gareth Jones)
 string_decoder-1.3.0.tgz (Copyright Node.js contributors)
 text-hex-1.0.0.tgz (Copyright 2014-2015 Arnout Kazemier <opensource@3rd) (Copyright 2014-2015 Arnout Kazemier <opensource@3rd-Eden.com>)
-trace-mapping-0.3.9.tgz (Copyright 2022 Justin Ridgewell <justin@ridgewell.name>)
 triple-beam-1.3.5.tgz (Copyright Microsoft Corporation)
 triple-beam-1.4.1.tgz (Copyright 2017 winstonjs)
 ts-custom-error-3.3.1.tgz (Copyright 2019 Adrien Gibrat https://github.com/adriengibrat)
-ts-node-10.9.2.tgz (Copyright 2014 Blake Embrey (hello@blakeembrey.com))
 type-detect-4.1.0.tgz (Copyright 2013 Jake Luer <jake@alogicalparadox.com> (http://alogicalparadox.com))
 undici-types-6.21.0.tgz (Copyright Matteo Collina and Undici contributors)
+universalify-0.1.2.tgz (Copyright 2017 Ryan Zimmerman <opensrc@ryanzim.com>)
 url-0.11.4.tgz (Copyright 2014 Joyent, Inc. and other Node contributors)
 util-deprecate-1.0.2.tgz (Copyright 2014 Nathan Rajlich "nathan@tootallnate.net" (mailto:nathan@tootallnate.net)) (Copyright 2014 Nathan Rajlich <nathan@tootallnate.net>)
 uuid-11.1.0.tgz (Copyright 2010-2020 Robert Kieffer and other contributors)
-vscode-json-languageservice-4.1.8.tgz (Copyright Microsoft)
-vscode-json-languageservice-5.6.1.tgz (Copyright Microsoft) 
-v8-compile-cache-lib-3.0.1.tgz (Copyright 2019 Andres Suarez)
+uuid-13.0.0.tgz (Copyright 2010-2020 Robert Kieffer and other contributors)
 vscode-jsonrpc-8.2.0.tgz (Copyright Microsoft Corporation)
+vscode-json-languageservice-4.1.8.tgz (Copyright Microsoft)
+vscode-json-languageservice-5.7.1.tgz (Copyright Microsoft)
 vscode-languageclient-9.0.1.tgz (Copyright Microsoft Corporation)
+vscode-languagedetection-1.0.23.tgz (Copyright Microsoft Corporation)
 vscode-languageserver-9.0.1.tgz (Copyright Microsoft Corporation)
 vscode-languageserver-protocol-3.17.5.tgz (Copyright Microsoft Corporation)
 vscode-languageserver-textdocument-1.0.12.tgz (Copyright Microsoft Corporation)
 vscode-languageserver-types-3.17.5.tgz (Copyright Microsoft Corporation)
 vscode-nls-5.2.0.tgz (Copyright Microsoft Corporation)
 vscode-uri-3.1.0.tgz (Copyright Microsoft)
-winston-3.17.0.tgz (Copyright 2010 Charlie Robbins)
+winston-3.19.0.tgz (Copyright 2010 Charlie Robbins)
 winston-daily-rotate-file-5.0.0.tgz (Copyright 2015-2024 winstonjs)
 winston-transport-4.9.0.tgz (Copyright 2015 Charlie Robbins & the contributors)
-yaml-language-server-1.18.0.tgz (Copyright 2017 Red Hat Inc. and others)
-yn-3.1.1.tgz (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
+yaml-language-server-1.20.0.tgz (Copyright 2017 Red Hat Inc. and others)
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
@@ -478,6 +489,6 @@ END OF IBM ENTERPRISE APPLICATION SERVICE FOR JAVA TOOLS NOTICES AND INFORMATION
 END OF NOTICES AND INFORMATION FILE
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-L/N: L-HZVV-S9VPRN
-D/N: L-HZVV-S9VPRN
-P/N: L-HZVV-S9VPRN
+L/N: L-EGYP-66XRRG
+D/N: L-EGYP-66XRRG
+P/N: L-EGYP-66XRRG
