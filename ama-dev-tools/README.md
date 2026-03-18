@@ -6,7 +6,7 @@ Easily and quickly modernize your enterprise Java applications using IBM Applica
 
 ## License
 
-By downloading the IBM Application Modernization Accelerator Developer Tools extension or plugin onto your IDE, you agree to the terms of [IBM Application Modernization Accelerator Developer Tools](https://www.ibm.com/terms/?id=L-PMKJ-4ADC94).
+By downloading the IBM Application Modernization Accelerator Developer Tools extension or plugin onto your IDE, you agree to the terms of [IBM Application Modernization Accelerator Developer Tools](https://www.ibm.com/terms/?id=L-XHLP-F4GFJ4).
 
 ## Features
 
